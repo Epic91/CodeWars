@@ -6,3 +6,4 @@ This is the GitHub Repo where I save copies of the katas i've completed on CodeW
 # List of Challenges
 
 * [Reversed Sequence](https://www.codewars.com/users/Epic91) - 8kyu
+* [Abbreviated a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) - 8kyu
