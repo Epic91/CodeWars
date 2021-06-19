@@ -12,6 +12,6 @@ This is the GitHub Repo where I save copies of the katas i've completed on CodeW
 * [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) - 6kyu
 
 
-# List of Ruby Chanllenges
+# List of Ruby Challenges
 * [Reversed Words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) - 7kyu
 * [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) - 7kyu
