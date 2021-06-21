@@ -3,8 +3,7 @@ This is the GitHub Repo where I save copies of the katas i've completed on CodeW
 
 <img src="https://www.codewars.com/users/Epic91/badges/large">
 
-# List of JavaScript Challenges
-
+# List of JavaScript Challenges:
 * [Reversed Sequence](https://www.codewars.com/users/Epic91) - 8kyu
 * [Abbreviated a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) - 8kyu
 * [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) - 8kyu
@@ -12,6 +11,10 @@ This is the GitHub Repo where I save copies of the katas i've completed on CodeW
 * [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) - 6kyu
 
 
-# List of Ruby Challenges
+# List of Ruby Challenges:
 * [Reversed Words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) - 7kyu
 * [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) - 7kyu
+
+# List of SQL Challenges:
+* [SQL Basics](https://www.codewars.com/kata/5809508cc47d327c12000084) - 8kyu
+
