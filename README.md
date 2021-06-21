@@ -17,4 +17,5 @@ This is the GitHub Repo where I save copies of the katas i've completed on CodeW
 
 # List of SQL Challenges:
 * [SQL Basics](https://www.codewars.com/kata/5809508cc47d327c12000084) - 8kyu
+* [College Tuition](https://www.codewars.com/kata/5910b0d378cc2ba91400000b) - 8kyu
 
